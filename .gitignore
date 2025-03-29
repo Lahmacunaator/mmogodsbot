@@ -1,8 +1,6 @@
 bin/
 .idea/
 obj/
-appsettings.json
-appsettings.Development.json
 MMOGodsDiscordBot/Discord/appsettings.json
 MMOGodsDiscordBot/Discord/appsettings.Development.json
 MMOGodsDiscordBot/Api/appsettings.Development.json
